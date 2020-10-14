@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456542041530",
+    "firebase_url": "https://bluestacks-33c4e.firebaseio.com",
+    "project_id": "bluestacks-33c4e",
+    "storage_bucket": "bluestacks-33c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456542041530:android:ddb9721bda4026c2bcd983",
+        "android_client_info": {
+          "package_name": "com.example.bluestacks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456542041530-5m92l9get2hdmu3bbvn6lasbjj73u2fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClv1et8tIDz317Y-BZPYPVolIWmAJLbIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456542041530-5m92l9get2hdmu3bbvn6lasbjj73u2fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456542041530-lc0pkp54s30n4eco12fco8gq83icg5kk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bluestacks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
